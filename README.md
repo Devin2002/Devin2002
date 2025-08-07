@@ -21,7 +21,6 @@
 
 - 📄 Know about my experiences [**My CV**](https://www.westminster.ac.uk/)
 
-- ⚡ Fun fact **Call me as DEVIN**
 
 <!-- TROFEOS GITHUB -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devin2002&theme=dracula&column=7" alt="devin2002" /></a> </p>
@@ -43,7 +42,6 @@
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=Devin2002&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
   <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devin2002&layout=compact&theme=gotham&langs_count=8"/>
 </div>
 
